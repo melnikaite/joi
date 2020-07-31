@@ -45,7 +45,7 @@ module.exports = {
                             [
                                 '@babel/preset-env',
                                 {
-                                    'targets': '> 1%, not IE 11, not dead'
+                                    'targets': 'defaults'
                                 }
                             ]
                         ],
